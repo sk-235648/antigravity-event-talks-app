@@ -1,0 +1,3 @@
+Welcome to your workspace!
+
+This is a hello.txt file created to welcome you to the environment. We are ready to start building amazing projects here. Let me know what you would like to do next!
